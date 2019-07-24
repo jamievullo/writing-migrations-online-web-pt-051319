@@ -6,12 +6,12 @@ class CreateStudents < ActiveRecord::Migration[5.1]
     end
   end
   
-  def up 
+  # def up 
     
-  end
+  # end
   
-  def down 
+  # def down 
     
-  end
+  # end
   
 end
